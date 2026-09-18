@@ -1,0 +1,6 @@
+{
+  "name": "Governed Portfolio Rebalancer",
+  "description": "Fiduciary multi-agent wealth assistant that profiles IPS/KYC, rebalances with deterministic math, enforces FINRA suitability, and produces advisor-ready trade proposals with Lyzr Safe AI and AIMS audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
